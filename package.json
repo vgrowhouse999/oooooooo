@@ -1,0 +1,10 @@
+{
+  "name": "wavemaker",
+  "scripts": {
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^26.0.0"
+  }
+}
